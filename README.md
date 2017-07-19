@@ -3,7 +3,7 @@
 ## Install dependencies
 `npm install`
 
-## Start developemnt
+## Start developement
 `gulp`
 or
 `gulp --production`
