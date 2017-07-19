@@ -1,4 +1,4 @@
-# Bootstrap Devlope Starter Kit
+# Bootstrap Devlopement Starter Kit
 
 ## Install dependencies
 `npm install`
